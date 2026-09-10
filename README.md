@@ -1,47 +1,105 @@
 # A. L. Pradeep Chowdhary
 
-## Embedded Systems | IoT | Edge AI
+## Embedded Systems | Firmware | Embedded IoT
 
-[LinkedIn](https://www.linkedin.com/in/a-l-pradeep-chowdhary-800b76325/) · [GitHub](https://github.com/Pradeephere34)
+
+
+[LinkedIn](https://www.linkedin.com/in/a-l-pradeep-chowdhary-800b76325/) · [GitHub](https://github.com/Pradeephere34) · [AetherGrid](https://github.com/Pradeephere34/aethergrid)
+
+
 
 ## About
 
-I am a B.Tech Electronics and Communication Engineering student focused on building practical intelligent systems at the intersection of embedded hardware, connected devices, and machine learning at the edge.
 
-I enjoy turning ideas into working prototypes with microcontrollers, sensors, actuators, and software. My current direction is to grow into an Embedded IoT and Edge AI Engineer by building reliable products, documenting engineering decisions, and contributing to open-source projects.
 
-## Current Focus
+I am a B.Tech Electronics and Communication Engineering student, expected to graduate in **May 2028**, building practical embedded systems with microcontrollers, sensors, actuators, displays, and firmware.
 
-- Building embedded prototypes with Arduino and ESP32.
-- Learning TinyML, FreeRTOS, and Python for data analysis.
-- Exploring sensor data processing, MQTT/HTTP communication, and edge inference.
-- Improving project quality through clear documentation, reproducible setup steps, and testing.
 
-## Technical Skills
 
-| Area | Technologies and concepts |
-| --- | --- |
-| Languages | C, Embedded C, Python, JavaScript fundamentals |
-| Embedded | Arduino, ESP32, ESP-IDF fundamentals, PlatformIO |
-| Electronics | Sensors, actuators, ultrasonic ranging, motor control, I2C communication |
-| IoT | MQTT and HTTP fundamentals, device monitoring, REST APIs |
-| AI at the edge | TinyML and TensorFlow Lite for Microcontrollers — currently learning |
-| Tools | Git, GitHub, VS Code, Linux command line |
+My current direction is **Embedded Systems, Firmware, and Embedded IoT**. I am developing skills through hardware-software projects, beginning with an Arduino Uno Mini Radar and now building AetherGrid, an active project exploring closed-loop control and physical outcome verification.
 
-## Featured Project
+
+
+## What I Have Built
+
+
 
 ### [Arduino Mini Radar](https://github.com/Pradeephere34/arduino-mini-radar)
 
-A rotating ultrasonic scanning system that measures distance in 5-degree steps and presents the scan data on an OLED display. The project combines motor control, ultrasonic sensing, and I2C communication in one embedded system.
 
-## What I Am Building Next
 
-My next project goal is an ESP32-based sensor system that collects motor data and explores edge-based anomaly or motion classification.
+An Arduino Uno prototype that rotates an ultrasonic sensor using a stepper motor, measures distance in scan increments, and presents scan information on an OLED display. The project focuses on sensor integration, motor control, display output, I2C, and repeatable embedded control logic.
 
-## Collaboration
 
-I am open to collaborating on beginner-friendly embedded systems, IoT, TinyML, and electronics projects.
 
----
+### [AetherGrid — Active Development](https://github.com/Pradeephere34/aethergrid)
 
-Build carefully. Measure honestly. Document clearly.
+
+
+A planned ESP32-based embedded IoT prototype exploring a small closed-loop system:
+
+
+
+```text
+
+Observe → Decide → Act → Verify
+
+```
+
+
+
+The first milestone is planned around a temperature/humidity sensor, a relay-controlled low-voltage actuator, MQTT, rule-based firmware, feedback, and outcome verification. This is an active project; advanced AI, anomaly detection, and infrastructure capabilities are roadmap items, not completed features.
+
+
+
+## Technical Focus
+
+
+
+| Area | Current focus |
+
+| --- | --- |
+
+| Programming | C / Embedded C, C++, Python fundamentals |
+
+| Embedded | Arduino Uno, ESP32, firmware fundamentals, sensors, actuators |
+
+| Hardware integration | Ultrasonic sensing, stepper motor control, OLED display interfacing |
+
+| Communication | I2C; exploring MQTT for AetherGrid |
+
+| Tools | Git, GitHub, VS Code, Linux command line |
+
+
+
+## Current Learning Path
+
+
+
+- Improving embedded firmware structure and debugging.
+- 
+- Building reliable sensor and actuator interfaces.
+- 
+- Learning ESP32 development and MQTT through AetherGrid.
+- 
+- Documenting wiring, state transitions, testing, failures, and limitations.
+- 
+- Exploring closed-loop cyber-physical systems incrementally; TinyML and advanced AI are future learning areas, not current experience.
+- 
+
+
+## Engineering Approach
+
+
+
+**Build carefully. Measure honestly. Document clearly.**
+
+
+
+I am interested in junior Embedded Systems, Firmware, and Embedded IoT opportunities where I can contribute to hardware-software integration, learn from experienced engineers, and demonstrate work through reproducible code and test evidence.
+
+
+
+
+
+
